@@ -18,8 +18,12 @@ This project aims to predict employee attrition using machine learning, uncover 
 
 ## Key Findings
 - Overtime, Single status, and Sales/Lab Tech roles are top predictors.
-- Attrition highest among age 26–33 and frequent travelers.
+- Attrition highest among age 24–35 and frequent travelers.
 - Logistic Regression had the best tradeoff between accuracy and recall.
+
+ ## Visuals
+  ![2025-05-10](https://github.com/user-attachments/assets/5b21de78-f627-4732-beba-ac273a19d928)
+
 
 ## Performance
 
